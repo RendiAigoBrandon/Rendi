@@ -47,7 +47,7 @@
 </table>
 
 
-<h2 id="js1">Job Sheet 1 - Pengenalan Struktur Data</h2>
+<h2 id="js1"> 💡 Job Sheet 1 - Pengenalan Struktur Data</h2>
 
 <p> ✦ <b>Struktur Data</b> : cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Struktur data biasa dipakai untuk mengelompokan beberapa  informasi yang terkait menjadi sebuah kesatuan.</p>
 <p>Struktur Data meliputi terbagi dua yaitu;</p>
@@ -65,7 +65,7 @@
 <p> Dalam teknik pemrograman, struktur data berarti tata letak data yang berisi kolom-kolom data. Lebar kolom untuk data dapat berubah dan bervariasi. Ada kolom yang lebarnya berubah secara dinamis sesuai masukan dari pengguna, dan juga ada kolom yang lebarnya tetap. 
 <hr><hr>
 
-<h2 id="js2">Job Sheet 2 - Array, Pointer, Structure</h2>
+<h2 id="js2"> 📖 Job Sheet 2 - Array, Pointer, Structure</h2>
 
 <p> ✦ <b>Array</b> : suatu kumpulan nilai yang bertipe data sama. Masing-masing elemen array diakses menggunakan indeks, dan elemen aarray dapat diakses langsung (acak) .</p>
 
@@ -89,7 +89,7 @@
 <p>Dalam  bahasa C terdapat tipe data numerik dan karakter (seperti int, float, char dan lain-lain). Selain itu juga terdapat tipe data enumerasi dan structure.</p>
 <hr><hr>
 
-<h2 id="js3">Job Sheet 3 - Single Linked List</h2>
+<h2 id="js3"> 💻 Job Sheet 3 - Single Linked List</h2>
 
 <p> ✦ <b>Simpul/Nodes</b> : berisi alamat dan kumpulan data. Dalam sebuah simpul/node keduanya dibungkus menjadi sebuah objek berupa struct </p>
 
@@ -108,7 +108,7 @@
 <p> ✦ <b>Single Linked list</b> : merupakan suatu linked list yang hanya memiliki satu variabel pointer saja. Dimana pointer tersebut menunjuk ke node selanjutnya.</p>
 <hr><hr>
 
-<h2 id="js4">Job Sheet 4 - Doubly Linked List</h2>
+<h2 id="js4"> 📔 Job Sheet 4 - Doubly Linked List</h2>
 
 <p> ✦ <b>Doubly Link List(DLL)</b> : berisi pointer tambahan, biasanya disebut pointer sebelumnya, bersama dengan pointer berikutnya dan data yang ada dalam daftar tertaut tunggal. Memiliki head dan tail. Memiliki dua arah data yakni next dan previous </p>
 <p> Sebuah linked list dikatakan kosong apabila isi pointer head adalah NULL. Selain itu, nilai pointer prev dari HEAD selalu NULL, karena merupakan data pertama.</p>
@@ -125,7 +125,7 @@
 </ul>
 <hr><hr>
 
-<h2 id="js5">Job Sheet 5 - Double and Circular Linked List</h2>
+<h2 id="js5"> 🔧 Job Sheet 5 - Double and Circular Linked List</h2>
 
 <p> ✦ <b>Double Linked List</b> : Elemen-elemen dihubungkan dengan dua pointer dalam satu node, menyebabkan list melintas baik ke depan (next) maupun ke belakang (prev) atau (back).</p>
 
@@ -135,7 +135,7 @@
 <p> ✦ <b>Circular Linked List</b> : merupakan linked list yang tidak memiliki tail.  Pada circular list, pointer next dari elemen terakhir menunjuk ke elemen pertama dan bukan menunjuk NULL. Pada double linked circular list, pointer prev dari elemen pertama menunjuk ke elemen terakhir. </p>
 <hr><hr>
 
-<h2 id="js6">Job Sheet 6 - Stack</h2>
+<h2 id="js6"> 🔁 Job Sheet 6 - Stack</h2>
 
 <p> ✦ <b>Stack</b> : sebuah kumpulan data dimana data tersebut diletakkan di atas data yang lain. Menggunakan aturan LIFO (Last In First Out) yang berarti elemen 
 terakhir yang disimpan dalam stack menjadi elemen pertama yang diambil.</p>
@@ -154,7 +154,7 @@ selama stack masih belum penuh, kemudian Isikan nilai baru ke stack berdasarkan 
 <p> ♢ <b>Clear</b> digunakan untuk mengosongkan stack.</p>
 <hr><hr>
 
-<h2 id="js7">Job Sheet 7 - Queue</h2>
+<h2 id="js7">  💾 Job Sheet 7 - Queue</h2>
 
 <p> ✦ <b>Queue (Antrian)</b> : suatu bentuk khusus dari List Linier dengan operasi penyisipan (insertion) hanya diperbolehkan pada salah satu sisi, yang disebut sisi belakang (REAR), dan operasi penghapusan (deletion) hanya diperbolehkan pada sisi yang lainnya.</p>
 <p>Prinsip dasar dari struktur data ini adalah “First In, First Out” (FIFO) yang berarti elemen data yang pertama dimasukkan ke dalam antrean akan menjadi yang pertama pula untuk dikeluarkan.</p>
@@ -165,7 +165,7 @@ selama stack masih belum penuh, kemudian Isikan nilai baru ke stack berdasarkan 
 <p> ♢ <b>Enqueue</b> merupakan proses untuk menambahkan data pada antrean.</p>
 <p> ♢ <b>Dequeue</b> merupakan proses untuk menghapus data dari antrean.</p>
 
-<h2 id="js8">Job Sheet 8 - Bubble and Insertion Sort</h2>
+<h2 id="js8"> 📚 Job Sheet 8 - Bubble and Insertion Sort</h2>
 
 <p> ✦ <b>Sorting (Pengurutan)</b> : merupakan proses pengurutan data yang sebelumnya disusun secara acak sehingga tersusun secara teratur menurut aturan tertentu.</p>
 <p>Teknik Sorting yang umum digunakan : buble sort, insertion sort, selection sort, quicksort, mergesort, heapsort, dan binary sort</p>
@@ -174,7 +174,7 @@ selama stack masih belum penuh, kemudian Isikan nilai baru ke stack berdasarkan 
 <p> ♢ <b>Insertion Sort</b> : merupakan sebuah teknik pengurutan dengan cara membandingkan dan mengurutkan dua data pertama pada array, kemudian membandingkan data para array berikutnya apakah sudah berada di tempat semestinya. Algoritma insertion sort seperti proses pengurutan kartu yang berada di tangan kita .</p>
 <hr><hr>
 
-<h2 id="js9">Job Sheet 9 - Selection and Merge Sort</h2>
+<h2 id="js9"> 📌 Job Sheet 9 - Selection and Merge Sort</h2>
 
 <p> ✦ <b>Selection Sort </b> : merupakan sebuah algoritma yang digunakan untuk mencari dna memilih element/data terkecil dalam sebuah list yang belum tersusun dalam setiap iterasi dan menempatkan elemen terkecil di urutan paling depan dari urutan list data. </p>
 <p>Cara kerja Slecetion Sort: </p>
@@ -195,7 +195,7 @@ terurut. </li>
 </ol>
 <hr><hr>
 
-<h2 id="js10">Job Sheet 10 - Shell and Quick Sort</h2>
+<h2 id="js10"> 💭 Job Sheet 10 - Shell and Quick Sort</h2>
 
 <p> ✦ <b>Shell Sort</b> : merupakan sebuah algoritma dengan pengurutan elemen pertama memiliki jarak interval dengan elemen yang akan dibandingkan. Pada prinsipnya sama dengan Insertion sort.</p>
 <p>Dalam pengurutan Shell Sort, elemen/data diurutkan dengan interval yang terukur. Jarak interval diantara elemen semakin lama semakin mengecil berdasarkan berapa kali pengulangan pengurutan 
@@ -214,7 +214,7 @@ terurut. </li>
 <p>Partisi dilakukan secara rekursif pada setiap sisi pivot setelah pivot ditempatkan pada posisi yang benar dan akhirnya mengurutkan array.</p>
 <hr><hr>
 
-<h2 id="js11">Job Sheet 11 - Linear and Binary Search</h2>
+<h2 id="js11"> #️⃣ Job Sheet 11 - Linear and Binary Search</h2>
 
 <p><b>Algoritma pencarian</b> (searching algorithm) adalah algoritma yang menerima sebuah argumen kunci dan dengan langkah-langkah tertentu akan mencari rekaman dengan kunci tersebut.  Setelah proses pencarian dilaksanakan, akan diperoleh salah satu dari dua kemungkinan, yaitu data yang dicari ditemukan (successful) atau tidak ditemukan (unsuccessful). </p>
 <p> ✦ <b>Linear Search</b> : merupakan algoritma pencarian berurutan yang dimulai dari satu ujung dan menelusuri setiap elemen daftar hingga elemen yang diinginkan ditemukan, jika tidak, pencarian akan berlanjut hingga akhir kumpulan data.</p>
@@ -231,7 +231,7 @@ terurut. </li>
 </ul></p>
 <hr><hr>
 
-<h2 id="js12">Job Sheet 12 - Tree</h2>
+<h2 id="js12"> 💻 Job Sheet 12 - Tree</h2>
 
 <p>✦ <b>Tree Traversal</b> atau melintasi sebuah pohon data/tree : mengunjungi semua simpul (node) yang ada pada pohon tersebut.</p>
 <p>Setiap Tree adalah kombinasi dari sebuah simpul yang menyimpan data dan 2-sub tree</p>
@@ -243,7 +243,7 @@ terurut. </li>
 </ol>
 <hr><hr>
 
-<h2 id="js13">Job Sheet 13 - Graphs</h2>
+<h2 id="js13"> 📔 Job Sheet 13 - Graphs</h2>
 
 <p>✦ <b>Breadth-First Search (BFS)</b> : merupakan teknik berbasis titik untuk menemukan jalur terpendek dalam grafik. Dengan menggunakan struktur data Antrian (Queue) yang mengikuti first in first out (FIFO).</p>
 <p>Cara kerjanya yaitu Satu simpul dipilih pada suatu waktu ketika simpul tersebut dikunjungi dan ditandai, kemudian simpul yang berdekatan dikunjungi dan disimpan dalam antrian.</p>
