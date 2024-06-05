@@ -22,45 +22,12 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kesimpulan JobSheet</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #001f3f;
-            color: #ffffff;
-            padding: 20px;
-        }
-        #navigator {
-            font-size: 24px;
-            margin-bottom: 20px;
-            color: #ffffff;
-        }
-        .job-sheet-list {
-            list-style-type: none;
-            padding: 0;
-        }
-        .job-sheet-list li {
-            margin: 10px 0;
-        }
-        .job-sheet-list a {
-            text-decoration: none;
-            color: #1e90ff;
-            font-size: 18px;
-        }
-        .job-sheet-list a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-
-<h2 id="navigator">Kesimpulan JobSheet</h2>
-<ul class="job-sheet-list">
+<h2 id="navigator">Pemahaman Materi</h2>
+<table>
+<tr>
+<td>
+<pre>
+<list>
   <li><a href="#js1">Job Sheet 1 - Pengenalan Struktur Data</a></li>
   <li><a href="#js2">Job Sheet 2 - Array, Pointer, Structure</a></li>
   <li><a href="#js3">Job Sheet 3 - Single Linked List</a></li>
@@ -74,10 +41,11 @@
   <li><a href="#js11">Job Sheet 11 - Linear and Binary Search</a></li>
   <li><a href="#js12">Job Sheet 12 - Tree</a></li>
   <li><a href="#js13">Job Sheet 13 - Graphs</a></li>
-</ul>
-
-</body>
-</html>
+</list>
+</pre>
+</td>
+</tr>
+</table>
 
 
 
