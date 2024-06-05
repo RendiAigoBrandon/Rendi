@@ -39,9 +39,6 @@
   <li><a href="#js13">Job Sheet 13 - Graphs</a></li>
 </ul>
 
-</body>
-</html>
-
 
 <h2 id="js1"> 💡 Job Sheet 1 - Pengenalan Struktur Data</h2>
 
