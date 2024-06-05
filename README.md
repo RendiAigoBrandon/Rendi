@@ -80,10 +80,8 @@
 </ul>
 
 <p> ➜ <b>Structure (Struct)</b> : Kumpulan variable (berisi variable yang memiliki tipe-tipe yang berbeda) bernaung dalam satu nama objek yang serumpun. Sebelum membuat sebuah struct maka perlu untuk menentukan tipe-tipe data apa saja di dalamnya.</p>
-<p>Terdapat dua tipe operator yang digunakan untuk mengakses sebuah struct, yaitu:</p>
+
 <ul>
-<li>'.' - Member operator.</li>
-<li>'->' - Operator yang digunakan untuk pointer.</li>
 </ul>
 
 <p> ➜ <b>ADT (Abstract Data Type) atau Tipe Data Bentukan</b> : Koleksi data dan operasi yang dapat digunakan untuk memanipulasi data, tipe data tertentu yang didefinisikan oleh pemrogram untuk kemudahan pemrograman serta untuk mengakomodasi tipe-tipe data yang tidak secara spesifik diakomodasi oleh bahasa pemrograman yang digunakan.</p>
