@@ -21,40 +21,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kesimpulan JobSheet</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        #navigator {
-            font-size: 24px;
-            margin-bottom: 20px;
-            color: #333;
-        }
-        .job-sheet-list {
-            list-style-type: none;
-            padding: 0;
-        }
-        .job-sheet-list li {
-            margin: 10px 0;
-        }
-        .job-sheet-list a {
-            text-decoration: none;
-            color: #0066cc;
-            font-size: 18px;
-        }
-        .job-sheet-list a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
 
 <h2 id="navigator">Kesimpulan JobSheet</h2>
 <ul class="job-sheet-list">
