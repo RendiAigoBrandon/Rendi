@@ -22,6 +22,43 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kesimpulan JobSheet</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #001f3f;
+            color: #ffffff;
+            padding: 20px;
+        }
+        #navigator {
+            font-size: 24px;
+            margin-bottom: 20px;
+            color: #ffffff;
+        }
+        .job-sheet-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .job-sheet-list li {
+            margin: 10px 0;
+        }
+        .job-sheet-list a {
+            text-decoration: none;
+            color: #1e90ff;
+            font-size: 18px;
+        }
+        .job-sheet-list a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
 <h2 id="navigator">Kesimpulan JobSheet</h2>
 <ul class="job-sheet-list">
   <li><a href="#js1">Job Sheet 1 - Pengenalan Struktur Data</a></li>
@@ -38,6 +75,10 @@
   <li><a href="#js12">Job Sheet 12 - Tree</a></li>
   <li><a href="#js13">Job Sheet 13 - Graphs</a></li>
 </ul>
+
+</body>
+</html>
+
 
 
 <h2 id="js1"> 💡 Job Sheet 1 - Pengenalan Struktur Data</h2>
