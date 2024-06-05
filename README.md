@@ -46,7 +46,6 @@
 </tr>
 </table>
 
-<h1>📋Laporan Praktikum Algoritma Pemrograman📋</h1>
 
 <h2 id="js1">Job Sheet 1 - Pengenalan Struktur Data</h2>
 
