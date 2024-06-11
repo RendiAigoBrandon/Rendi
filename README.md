@@ -1,4 +1,4 @@
-# [![UNP](https://unp.ac.id/nfs-assets/all/images/logo_unp_white.png)](https://unp.ac.id/)
+# <p align="center"> [![UNP](https://unp.ac.id/nfs-assets/all/images/logo_unp_white.png)](https://unp.ac.id/)
 # 💫 About Me:
 🎓I'm a student at Padang State University<br>💻I'm currently studying programming languages C, Phyton<br>🎮My hobby is playing game<br>💬DM me in INSTAGRAM if you want to know more about me
 
